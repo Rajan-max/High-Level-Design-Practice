@@ -1,0 +1,3 @@
+[Wed May 15 00:30:59 IST 2024] DEBUG: This is a debug message.
+[Wed May 15 00:30:59 IST 2024] WARN: This is a warning message.
+[Wed May 15 00:30:59 IST 2024] ERROR: This is an error message.
